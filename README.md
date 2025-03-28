@@ -2,7 +2,7 @@
 
 The Mindustry Portable Launcher automatically locates the Java environment on your system, runs `Mindustry.jar`, and redirects Mindustry data from `%AppData%` to the current directory.
 
-# Prerequisites
+## Prerequisites
 
 - **Java Runtime Environment (JRE)** registered on your system.
 - Ensure that the following files are in the current directory:
